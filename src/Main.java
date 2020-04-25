@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Main
 {
-        public static void main(String[] Args)
-        {
-                ChangeUnit p1 = new ChangeUnit();
-                p1.start();
+        public static void main(String[] Args) throws InterruptedException {
+
+                        ChangeUnit p1 = new ChangeUnit();
+                        p1.start();
 
         }
 
